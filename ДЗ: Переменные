@@ -1,0 +1,21 @@
+namespace Test
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            int month = 10;
+            int year = 2020;
+            float f = 75f;
+            double d = 14;
+            char c = 'T';
+            string str = "star";
+            bool bl=5>2;
+            string name = "ivan";
+            double a =15;
+            int day = 1;
+            
+
+        }
+    }
+}
