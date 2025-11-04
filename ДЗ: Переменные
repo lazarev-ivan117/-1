@@ -4,16 +4,16 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            int month = 10;
-            int year = 2020;
-            float f = 75f;
-            double d = 14;
-            char c = 'T';
-            string str = "star";
-            bool bl=5>2;
             string name = "ivan";
-            double a =15;
-            int day = 1;
+            string surname = "lazarev";
+            int day = 18;
+            int month = 05;
+            int years = 2001;
+            float weight = 57.7f;
+            double time = 17;
+            char c = ' ';
+            char a = 'A';
+            bool hasChildren = 5 > 2;
             
 
         }
